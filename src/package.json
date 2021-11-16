@@ -1,0 +1,27 @@
+{
+  "name": "Overview - DevExtreme Pivot Grid",
+  "description": "DevExtreme React PivotGrid is a UI component for multi-dimensional data analysis. It can process data from local arrays and OLAP cubes (MS SQL Server Analysis Services), as well as from custom remote services. In addition, Pivot Grid supports advanced UI customization using template components and render props. Declared PropTypes for typechecking are included as well. Learn more about DevExtreme React components.\n",
+  "dependencies": {
+    "rrule": "2.6.6",
+    "react-dom": "17.0.2",
+    "react": "17.0.2",
+    "prop-types": "15.7.2",
+    "luxon": "1.28.0",
+    "jszip": "3.7.1",
+    "inferno-hydrate": "7.4.10",
+    "inferno-extras": "7.4.10",
+    "inferno-dom": "1.0.7",
+    "inferno-create-element": "7.4.10",
+    "inferno-create-class": "7.4.10",
+    "inferno-compat": "7.4.10",
+    "inferno-clone-vnode": "7.4.10",
+    "inferno": "7.4.10",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "21.1.6",
+    "devextreme-quill": "1.4.2",
+    "devextreme": "21.1.6",
+    "devexpress-gantt": "3.0.14",
+    "devexpress-diagram": "2.1.32",
+    "@devextreme/vdom": "1.2.2"
+  }
+}
